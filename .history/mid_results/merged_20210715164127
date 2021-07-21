@@ -1,0 +1,63 @@
+
+[60]
+
+
+
+
+liste = []
+for param in params:
+    print(merged_suspected[param].value_counts())
+consider    1592
+clear        328
+Name: visual_authenticity_result_x, dtype: int64
+clear       1705
+consider     215
+Name: image_integrity_result, dtype: int64
+clear       1896
+consider      24
+Name: face_detection_result, dtype: int64
+clear    1920
+Name: image_quality_result, dtype: int64
+clear    1920
+Name: supported_document_result, dtype: int64
+clear       1530
+consider     179
+Name: conclusive_document_quality_result, dtype: int64
+clear       1670
+consider      39
+Name: colour_picture_result, dtype: int64
+clear       1460
+consider     400
+Name: data_validation_result, dtype: int64
+clear       1437
+consider     170
+Name: data_consistency_result, dtype: int64
+clear    2
+Name: data_comparison_result, dtype: int64
+2d263da1fe0745308e58b3dad91594aa    1
+cec97af12d874920921654ffd154a270    1
+bfcb2c55492b4970a7a93c31bb77d992    1
+10760fcc6701440bb8db29c28ebb8e1e    1
+d10e49cd5b024cdda908d466b2c4ae85    1
+                                   ..
+ae8c333f7fc64864a646b91629da88da    1
+67d905825ce24f01bf49e8737ef64807    1
+142cc8da7b0a4142a0446b5092b9ca69    1
+385fec3135ed496388a5383ea86e5347    1
+d68c3810f9cd42c5973a895e17e758c7    1
+Name: attempt_id, Length: 1920, dtype: int64
+clear       1822
+consider      25
+Name: police_record_result, dtype: int64
+clear       751
+consider     23
+Name: compromised_document_result, dtype: int64
+clear       1645
+consider       6
+Name: face_comparison_result, dtype: int64
+clear       1651
+consider     176
+Name: facial_image_integrity_result, dtype: int64
+consider    1592
+clear        328
+Name: visual_authenticity_result_y, dtype: int64

@@ -1,0 +1,49 @@
+
+[60]
+
+
+
+
+consider    1592
+clear        328
+Name: visual_authenticity_result_x,
+clear       1705
+consider     215
+Name: image_integrity_result,
+clear       1896
+consider      24
+Name: face_detection_result,
+clear    1920
+Name: image_quality_result,
+clear    1920
+Name: supported_document_result,
+clear       1530
+consider     179
+Name: conclusive_document_quality_result,
+clear       1670
+consider      39
+Name: colour_picture_result,
+clear       1460
+consider     400
+Name: data_validation_result,
+clear       1437
+consider     170
+Name: data_consistency_result,
+clear    2
+
+Name: attempt_id, Length: 1920,
+clear       1822
+consider      25
+Name: police_record_result,
+clear       751
+consider     23
+Name: compromised_document_result,
+clear       1645
+consider       6
+Name: face_comparison_result,
+clear       1651
+consider     176
+Name: facial_image_integrity_result,
+consider    1592
+clear        328
+Name: visual_authenticity_result_y,

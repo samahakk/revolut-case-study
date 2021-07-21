@@ -1,0 +1,12 @@
+{
+        "jupyter.jupyterServerType": "local",
+        "sqltools.connections": [
+                {
+                        "previewLimit": 50,
+                        "driver": "SQLite",
+                        "name": "revolut.db",
+                        "database": "${workspaceFolder:revolut}/hc_data/revolut.db"
+                }
+        ],
+        "sqltools.useNodeRuntime": true
+}
